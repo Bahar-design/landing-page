@@ -1,3 +1,6 @@
+* {
+    font-style: roboto;
+}
 .section-1,
 .footer {
     background-color: #1f2937;
@@ -11,8 +14,18 @@
     color: #e5e7eb;
     font-size: 18px;
 }
+ul {
+    list-style-type: none;
+}
 .main {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
+}
+.left,
+.right {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 30px;
 }
