@@ -36,3 +36,16 @@ ul, li, a {
     align-items: center;
     padding: 30px;
 }
+.hero {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.button_ button {
+    background-color: #3882f6;
+    color: white;
+    font-size: 12px;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 25px;
+}
