@@ -101,8 +101,8 @@ button {
 .section-3 {
     background-color: #e5e7eb;
 }
-.quote h3 {
+.quote p {
     font-size: 36px;
-    font-style: light italic;
+    font-style: italic;
     color: #1f2937;
 }
