@@ -96,3 +96,12 @@ button {
 .i {
     max-width: 300px;
 }
+
+.section-3 {
+    background-color: #e5e7eb;
+}
+.quote h3 {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+}
